@@ -251,5 +251,7 @@ Este repositorio contiene varios ejercicios de programación en Java para practi
 #### Ejercicio 2:
 - Modifica el ejercicio anterior para trabajar con una lista de objetos `Persona`. El programa debe permitir guardar y cargar la lista completa de objetos en un archivo.
 
+
+
 ---
 
